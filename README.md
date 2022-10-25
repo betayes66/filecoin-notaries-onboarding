@@ -2,7 +2,7 @@
 
 We will publish the accessible records of the notary's allocation decisions here：
 
-## 1
+## Record 1
 Client name: xxx
 
 Website: xxx
